@@ -1,0 +1,13 @@
+[shell]
+polkit_agent = true
+
+# ── Barra ──────────────────────────────────────────────────────────────
+# Solo: workspaces (izquierda), reloj (centro),
+# wifi sin SSID + batería + logo Noctalia (derecha).
+[bar.default]
+start  = [ "workspaces" ]
+center = [ "clock" ]
+end    = [ "network", "battery", "control-center" ]
+
+[widget.network]
+show_label = false

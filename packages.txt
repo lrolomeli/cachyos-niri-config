@@ -1,0 +1,7 @@
+# Paquetes que usan los atajos y el aspecto de esta configuración.
+# niri, noctalia y wireplumber (wpctl) vienen con cachyos-niri-noctalia.
+brightnessctl
+capitaine-cursors
+alacritty
+firefox
+nautilus

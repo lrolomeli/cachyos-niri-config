@@ -1,0 +1,6 @@
+# Generados o específicos de cada equipo
+config/niri/cfg/display.local.kdl
+config/niri/noctalia.kdl
+*.bkp*
+*.bak
+.DS_Store

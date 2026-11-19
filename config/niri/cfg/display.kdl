@@ -1,0 +1,13 @@
+// ────────────── Output Configuration ──────────────
+// La configuración real por equipo la genera install.sh en display.local.kdl
+// (incluido aparte, con optional=true), para que este repo sirva en cualquier
+// pantalla sin fijar un nombre de salida ni una escala.
+//
+// Referencia: https://github.com/YaLTeR/niri/wiki/Configuration:-Outputs
+//
+// Ejemplo de lo que escribe install.sh:
+//
+// output "eDP-1" {
+//     scale 1.0
+//     position x=0 y=0
+// }
