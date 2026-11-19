@@ -90,7 +90,8 @@ packages.txt
 | `Mod+Shift+Space` | Mostrar/ocultar barra |
 | `Mod+Shift+Return` | Selector de fondo |
 | `Mod+Shift+S` | Ajustes de Noctalia |
-| `Mod+Shift+O` | Bloquear (alias de `Mod+Alt+L`) |
+| `Mod+Alt+L` | Bloquear pantalla |
+| `Mod+Shift+Q` | Menú de sesión |
 
 `Mod` = tecla Super/Windows (Cmd en teclados Apple).
 
