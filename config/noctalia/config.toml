@@ -11,3 +11,12 @@ end    = [ "network", "battery", "control-center" ]
 
 [widget.network]
 show_label = false
+
+# ── Lock screen ────────────────────────────────────────────────────────
+# Sin transiciones ni blur: el lock responde al teclado de inmediato y el
+# desbloqueo no espera la animación de salida (1500 ms por defecto).
+[lockscreen]
+transition     = []
+blur_intensity = 0.0
+tint_intensity = 0.0
+fingerprint    = false
